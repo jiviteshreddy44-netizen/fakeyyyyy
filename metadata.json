@@ -1,6 +1,6 @@
 {
-  "name": "Copy of Copy of Copy of Copy of FAKEY.AI - Truth Verification Suite",
-  "description": "Advanced forensic analysis for deepfakes, AI-text, and real-time truth grounding.",
+  "name": "FAKEY.AI - Neural Truth Suite",
+  "description": "Professional-grade forensic analysis for media integrity, deepfake detection, and factual grounding.",
   "requestFramePermissions": [
     "camera",
     "microphone",
